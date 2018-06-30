@@ -1,0 +1,6 @@
+﻿  cost_function.c
+c:\users\karol\desktop\arm11_30\extension\extension\cost_function.c(22): warning C4029: declared formal parameter list different from definition
+c:\users\karol\desktop\arm11_30\extension\extension\cost_function.c(52): warning C4020: 'freeM': too many actual parameters
+c:\users\karol\desktop\arm11_30\extension\extension\cost_function.c(25): warning C4101: 'gamma2': unreferenced local variable
+c:\users\karol\desktop\arm11_30\extension\extension\cost_function.c(158): warning C4113: 'void (__cdecl *)(float *,float *,float *,matrix_t *,matrix_t *)' differs in parameter lists from 'void (__cdecl *)(float *,float *,float *)'
+  extension.vcxproj -> C:\Users\Karol\Desktop\arm11_30\extension\Debug\extension.exe
